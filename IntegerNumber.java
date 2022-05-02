@@ -4,5 +4,6 @@ public class IntegerNumber {
         this.integer = i;
     }
     public void addition(int i) {
+        this.integer += i;
     }
 }
